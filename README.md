@@ -14,7 +14,8 @@ Tasks:</br>
 - 6 bananas for 2.80€</br>
 - 2 chocolates for 2.50€</br>
 - 1 wine for 4.75€</br>
-➔ Pay attention to the singular/plural of product names depending on the count in the 'PurchaseItem' object
+➔ Pay attention to the singular/plural of product names depending on the count in the 'PurchaseItem' object</br>
+</br>
 Extra tasks:</br>
 ➔ Create and use an additional method clearPurchaseList() for the purchase that removes all items from the 'itemList'</br>
 ➔ Create and use an additional method removeLastItem() on the purchase that removes the last item from the list</br>
