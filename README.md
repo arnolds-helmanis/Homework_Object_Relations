@@ -11,9 +11,9 @@ Tasks:</br>
 ➔ Create a method in the 'Purchase' class that calculates the total sum of the purchase</br>
 ➔ Print the information of each purchase in the following notation:</br>
   John John bought 25 items for total price of 38.75€:</br>
-- 6 bananas for 2.80€</br>
-- 2 chocolates for 2.50€</br>
-- 1 wine for 4.75€</br>
+   - 6 bananas for 2.80€</br>
+   - 2 chocolates for 2.50€</br>
+   - 1 wine for 4.75€</br>
 ➔ Pay attention to the singular/plural of product names depending on the count in the 'PurchaseItem' object
 Extra tasks:</br>
 ➔ Create and use an additional method clearPurchaseList() for the purchase that removes all items from the 'itemList'</br>
